@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ompuri
 - 👀 I’m interested in development
 - 🌱 I’m currently learning PhP...
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on ompuri2524@gmail.com
 
 <!---
